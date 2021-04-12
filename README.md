@@ -6,6 +6,6 @@ To use it just add the `yaru-blue-with-breeze` to your icons folder, then select
 
 ![Screenshot 1](https://raw.githubusercontent.com/luizomf/yaru-blue-with-breeze-icons/master/screenshots/s1.png)
 
-![Screenshot 2](https://github.com/luizomf/yaru-blue-with-breeze-icons/blob/master/screenshots/s2.png)
+![Screenshot 2](https://raw.githubusercontent.com/luizomf/yaru-blue-with-breeze-icons/master/screenshots/s2.png)
 
-![Screenshot 3](https://github.com/luizomf/yaru-blue-with-breeze-icons/blob/master/screenshots/s3.png)
+![Screenshot 3](https://raw.githubusercontent.com/luizomf/yaru-blue-with-breeze-icons/master/screenshots/s3.png)
