@@ -2,7 +2,7 @@
 
 I just took the [Yaru](https://github.com/ubuntu/yaru) Blue Icons and change the places icons to the Breeze Icons.
 
-Find more about [Yaru Blue (Colors)](https://github.com/Jannomag/Yaru-Colors).
+Read more about [Yaru Blue (Colors)](https://github.com/Jannomag/Yaru-Colors).
 
 To use it just add the `yaru-blue-with-breeze` to your icons folder, then select `Yaru-Blue-With-Breeze` on Gnome Tweeks.
 
